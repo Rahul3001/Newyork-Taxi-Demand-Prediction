@@ -179,6 +179,7 @@ Data has been collected for all yellow taxi trips data from jan-2015 to dec-2016
 <td> 19 </td>
 </tr>
 </table>
+
 # ML Problem Formulation
 <p><b> Time-series forecasting and Regression</b></p>
 <br>
@@ -186,6 +187,7 @@ Data has been collected for all yellow taxi trips data from jan-2015 to dec-2016
 <p> 
 To solve the above we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.
 </p>
+
 # Performance metrics
 1. Mean Absolute percentage error.
 2. Mean Squared error.
